@@ -52,3 +52,11 @@ Base model: Llama 3.2 1B Instruct (4-bit)
 Fine-tuning: QLoRA adapters  
 Training data: very small, structure-focused examples  
 RAG source: simple external text data  
+
+## How to run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+python app.py "I have a cough and a high fever. What could it be?"
