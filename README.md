@@ -1,4 +1,8 @@
 ## RAG + Fine Tuning on Medical Dataset
+
+<img width="520" height="284" alt="image" src="https://github.com/user-attachments/assets/4b195456-4b64-49ef-bba6-af79bf868d22" />
+
+
 This example starts with a very simple user question:
 
 > *“I have a cough and a high fever. What could it be?”*
