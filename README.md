@@ -1,7 +1,7 @@
 ## RAG + Fine Tuning on Medical Dataset
 
 <img width="520" height="284" alt="image" src="https://github.com/user-attachments/assets/4b195456-4b64-49ef-bba6-af79bf868d22" />
-
+<br>
 
 This example starts with a very simple user question:
 
@@ -36,3 +36,10 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 python app.py "I have a cough and a high fever. What could it be?"
+```
+
+<br>
+
+### Related Medium Article
+
+[Designing Fine-Tuning the Right Way](https://medium.com/@denizcanguven/designing-fine-tuning-the-right-way-295b97d26148)
